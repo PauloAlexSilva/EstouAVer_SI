@@ -1,6 +1,12 @@
-# EstouAVer_SI
+# Segurança - Informática
+Trabalho de grupo desenvolvido para a Unidade Curricular Segurança de Informática.
+Monitor de integridade para diretorias.
 
-Trabalho de grupo desenvolvido para a Unidade Curricular Segurança de Informática
+Este projeto tem como objetivo verificar se qualquer ficheiro foi alterado por outro interveniente.
+
+
+
+
 
 ## Serviço (Daemon)
 
